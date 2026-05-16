@@ -1,0 +1,11 @@
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:399:9:ai_network_get_info	152	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:445:9:ai_network_get_report	152	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:491:10:ai_network_get_error	8	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:497:10:ai_network_create	16	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:541:12:ai_network_inputs_get	8	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:551:12:ai_network_outputs_get	8	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:561:11:ai_network_destroy	8	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:567:9:ai_network_init	24	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:507:10:ai_network_create_and_init	80	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:584:8:ai_network_run	8	static
+/tmp/rootDir-9eef2b98-9af5-4003-b784-036faf55b5a2/NUCLEO-F411RE/.ai/output/network.c:591:8:ai_network_forward	8	static

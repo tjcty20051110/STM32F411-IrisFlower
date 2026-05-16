@@ -1,0 +1,47 @@
+# Keil MDK-ARM
+*.uvguix.*
+*.bak
+*.dep
+*.lst
+*.map
+*.lnp
+*.o
+*.d
+*.crf
+*.axf
+*.tra
+*.htm
+*.sct.bak
+RTE/
+Listings/
+Objects/
+
+# Build outputs
+*.bin
+*.hex
+*.elf
+*.lib
+
+# Debug
+*.dbgconf
+*.ini
+JLinkLog.txt
+JLinkSettings.ini
+
+# OS generated
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary
+*.tmp
+*.temp
